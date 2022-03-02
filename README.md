@@ -53,7 +53,7 @@ This is a full stack e-commerce web application that was built using REACT. Appl
 # Heroku
 
 
-(https://book-search1126.herokuapp.com/)
+(https://shop-shop1126.herokuapp.com/)
 
 
 # License
@@ -68,6 +68,6 @@ N/A
 # Questions?
 ## Please contact me:
   * [My GitHub Profile](https://github.com/JoNoC0)
-  * [My Github Project Repository](https://github.com/JoNoC0/book-search)
+  * [My Github Project Repository](https://github.com/JoNoC0/redux-store)
   * [LinkedIn](https://www.linkedin.com/in/john-jonoc0/)
   * Email us at: [JNguyeningCo@gmail.com](mailto:JNguyeningCo@gmail.com) with questions or make an issue about this project.
