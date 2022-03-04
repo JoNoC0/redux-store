@@ -7,6 +7,11 @@ import { idbPromise } from "../../utils/helpers";
 const CartItem = ({ item }) => {
 
   // const [, dispatch] = useStoreContext();
+
+  const state = useSelector((state) => {
+    return state
+  });
+
   const dispatch = useDispatch();
 
   const removeFromCart = item => {
@@ -36,7 +41,7 @@ const CartItem = ({ item }) => {
       idbPromise('cart', 'put', { ...item, purchaseQuantity: parseInt(value) });
 
     }
-  }
+  };
 
   return (
     <div className="flex-row">
