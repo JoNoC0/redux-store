@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a64bd9e7.chunk.css",
-    "main.js": "/static/js/main.dc576ab7.chunk.js",
-    "main.js.map": "/static/js/main.dc576ab7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a258a78.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a258a78.js.map",
-    "static/js/2.15806159.chunk.js": "/static/js/2.15806159.chunk.js",
-    "static/js/2.15806159.chunk.js.map": "/static/js/2.15806159.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d18f18ee43e97faf33c387707a4fdf35.js": "/precache-manifest.d18f18ee43e97faf33c387707a4fdf35.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a64bd9e7.chunk.css.map": "/static/css/main.a64bd9e7.chunk.css.map",
-    "static/js/2.15806159.chunk.js.LICENSE.txt": "/static/js/2.15806159.chunk.js.LICENSE.txt",
-    "static/media/spinner.gif": "/static/media/spinner.ab497855.gif"
+    "main.css": "//jonoc0.github.io/redux-store/static/css/main.a64bd9e7.chunk.css",
+    "main.js": "//jonoc0.github.io/redux-store/static/js/main.fbda15e9.chunk.js",
+    "main.js.map": "//jonoc0.github.io/redux-store/static/js/main.fbda15e9.chunk.js.map",
+    "runtime-main.js": "//jonoc0.github.io/redux-store/static/js/runtime-main.c6406ff1.js",
+    "runtime-main.js.map": "//jonoc0.github.io/redux-store/static/js/runtime-main.c6406ff1.js.map",
+    "static/js/2.15806159.chunk.js": "//jonoc0.github.io/redux-store/static/js/2.15806159.chunk.js",
+    "static/js/2.15806159.chunk.js.map": "//jonoc0.github.io/redux-store/static/js/2.15806159.chunk.js.map",
+    "index.html": "//jonoc0.github.io/redux-store/index.html",
+    "precache-manifest.68c6341b01b90406bb9c611d9acbfad9.js": "//jonoc0.github.io/redux-store/precache-manifest.68c6341b01b90406bb9c611d9acbfad9.js",
+    "service-worker.js": "//jonoc0.github.io/redux-store/service-worker.js",
+    "static/css/main.a64bd9e7.chunk.css.map": "//jonoc0.github.io/redux-store/static/css/main.a64bd9e7.chunk.css.map",
+    "static/js/2.15806159.chunk.js.LICENSE.txt": "//jonoc0.github.io/redux-store/static/js/2.15806159.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "//jonoc0.github.io/redux-store/static/media/spinner.ab497855.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a258a78.js",
+    "static/js/runtime-main.c6406ff1.js",
     "static/js/2.15806159.chunk.js",
     "static/css/main.a64bd9e7.chunk.css",
-    "static/js/main.dc576ab7.chunk.js"
+    "static/js/main.fbda15e9.chunk.js"
   ]
 }
